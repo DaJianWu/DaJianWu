@@ -27,7 +27,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=dajianwu&locale=en&layout=compact&show_icons=true "Top Langs")](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dajianwu&locale=en&layout=compact&show_icons=true "GitHub stats")](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dajianwu&locale=en&layout=compact&show_icons=true&hide=stars "GitHub stats")](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dajianwu& "github streak stats") -->
 
