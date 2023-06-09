@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm wudajian
 
-### **A self disciplined life is the most beautiful**（A passionate developer from China） undefined?
+### **A self disciplined life is the most beautiful**（A passionate developer from China）
 
 ![visitors count badge](https://komarev.com/ghpvc/?username=dajianwu&label=Profile%20views&color=0e75b6&style=flat "visitors count badge")
 
